@@ -1,0 +1,202 @@
+[
+    {
+        "Code": "11111-0002",
+        "Content": "Size of territory: Administrative districts, reference date",
+        "Time": ""
+    },
+    {
+        "Code": "12411-0015",
+        "Content": "Population: Administrative districts, reference date",
+        "Time": ""
+    },
+    {
+        "Code": "12411-0016",
+        "Content": "Population: Administrative districts, reference date, sex",
+        "Time": ""
+    },
+    {
+        "Code": "12411-0017",
+        "Content": "Population: Administrative districts, reference date,\nage groups",
+        "Time": ""
+    },
+    {
+        "Code": "12411-0018",
+        "Content": "Population: Administrative districts, reference date, sex,\nage groups",
+        "Time": ""
+    },
+    {
+        "Code": "12521-0040",
+        "Content": "Foreigners: Administrative districts, reference date, sex",
+        "Time": ""
+    },
+    {
+        "Code": "12521-0041",
+        "Content": "Foreigners: Administrative districts, reference date, sex,\ncountry groups/citizenship",
+        "Time": ""
+    },
+    {
+        "Code": "12521-0042",
+        "Content": "Foreigners: Administrative districts, reference date, sex,\nresidence permit, country groups",
+        "Time": ""
+    },
+    {
+        "Code": "12521-0043",
+        "Content": "Foreigners: Administrative districts, reference date, sex,\nselected types of residence permits, citizenship",
+        "Time": ""
+    },
+    {
+        "Code": "12521-0044",
+        "Content": "Foreigners: Administrative districts, years, sex,\nchanges in the register (regional level), country groups",
+        "Time": ""
+    },
+    {
+        "Code": "12531-0040",
+        "Content": "Persons seeking protection: Administrative districts,\nreference date, sex",
+        "Time": ""
+    },
+    {
+        "Code": "12531-0041",
+        "Content": "Persons seeking protection: Administrative districts,\nreference date, sex, country groups/citizenship",
+        "Time": ""
+    },
+    {
+        "Code": "12531-0042",
+        "Content": "Persons seeking protection: Administrative districts,\nreference date, sex, protection status, country groups",
+        "Time": ""
+    },
+    {
+        "Code": "12531-0043",
+        "Content": "Persons seeking protection: Administrative districts,\nreference date, sex, category of protection status,\ncitizenship",
+        "Time": ""
+    },
+    {
+        "Code": "21311-0002",
+        "Content": "Students: Germany, semester, nationality, sex,\ninstitutions of higher education",
+        "Time": ""
+    },
+    {
+        "Code": "21311-0011",
+        "Content": "First-year students: Germany, semester, nationality, sex,\ninstitutions of higher education",
+        "Time": ""
+    },
+    {
+        "Code": "21321-0002",
+        "Content": "Examinations at institutions of higher education: Germany,\nyears, nationality, sex, examination result,\ninstitutions of higher education",
+        "Time": ""
+    },
+    {
+        "Code": "21431-0003",
+        "Content": "Scholarship holders: Germany, years, sex, institutions of\nhigher education",
+        "Time": ""
+    },
+    {
+        "Code": "22151-0040",
+        "Content": "Recipients of basic security benefits: Administrative\ndistricts, reference month per quarter, sex/age\ngroups/location of benefit provision",
+        "Time": ""
+    },
+    {
+        "Code": "22151-0041",
+        "Content": "Average net needs, gross needs, deducted income:\nAdministrative districts, reference month per quarter",
+        "Time": ""
+    },
+    {
+        "Code": "22922-0121",
+        "Content": "Recipients of parental allowance: Administrative districts,\nyears, sex, employment",
+        "Time": ""
+    },
+    {
+        "Code": "22922-0122",
+        "Content": "Recipients of parental allowance: Administrative districts,\nyears, sex, type of parental allowance",
+        "Time": ""
+    },
+    {
+        "Code": "22922-0123",
+        "Content": "Recipients of parental allowance: Administrative districts,\nyears, sex, type of parental allowance, monthly amount of\nparental allowance entitlement",
+        "Time": ""
+    },
+    {
+        "Code": "22922-0124",
+        "Content": "Average amount of parental allowance entitlement:\nAdministrative districts, years, sex, type of parental\nallowance, employment",
+        "Time": ""
+    },
+    {
+        "Code": "22922-0125",
+        "Content": "Average expected period of receiving parental allowance:\nAdministrative districts, years, sex, type of parental\nallowance",
+        "Time": ""
+    },
+    {
+        "Code": "22971-0080",
+        "Content": "Homeless people accommodated: Administrative districts,\nreference date, nationality, sex, age groups",
+        "Time": ""
+    },
+    {
+        "Code": "31231-0020",
+        "Content": "Dwellings in residential and non-residential buildings,\nliving floor space, rooms: Administrative districts,\nreference date",
+        "Time": ""
+    },
+    {
+        "Code": "31231-0021",
+        "Content": "Dwellings in residential and non-residential buildings:\nAdministrative districts, reference date, number of rooms",
+        "Time": ""
+    },
+    {
+        "Code": "31231-0022",
+        "Content": "Residential buildings, dwellings, living floor space:\nAdministrative districts, reference date, number of\ndwellings",
+        "Time": ""
+    },
+    {
+        "Code": "31231-0023",
+        "Content": "Dwellings in non-residential buildings, living floor space:\nAdministrative districts, reference date",
+        "Time": ""
+    },
+    {
+        "Code": "46131-0113",
+        "Content": "Goods carried (freight transport by rail): Germany, years\n(until 2010), reg. transport district of loading/unloading,\nmain traffic relations, classific. of goods (main groups)",
+        "Time": ""
+    },
+    {
+        "Code": "46131-0114",
+        "Content": "Goods carried (freight transport by rail): Germany, years\n(until 2010), reg. transport district of unloading/loading,\nmain traffic relations, classific. of goods (main groups)",
+        "Time": ""
+    },
+    {
+        "Code": "46251-0020",
+        "Content": "Stock of motor vehicles: administrative districts,\nreference date, motor vehicle types",
+        "Time": ""
+    },
+    {
+        "Code": "46251-0021",
+        "Content": "Passenger cars: administrative districts, reference date,\nfuel types, emission groups",
+        "Time": ""
+    },
+    {
+        "Code": "46321-0011",
+        "Content": "Goods carried (inland waterway transport): Germany, years\n(until 2010), reg. transport district of loading/unloading,\nmain traffic relations, classific. of goods (main groups)",
+        "Time": ""
+    },
+    {
+        "Code": "46321-0015",
+        "Content": "Goods unloaded, goods loaded, goods transshipped (inland\nwaterway transport): Germany, years, selected inland ports",
+        "Time": ""
+    },
+    {
+        "Code": "46321-0016",
+        "Content": "Goods transshipped (inland waterway transport): Germany,\nyears, selected inland ports, classification of goods\n(divisions)",
+        "Time": ""
+    },
+    {
+        "Code": "46331-0006",
+        "Content": "Goods and units unloaded and loaded (maritime transport):\nGermany, months, selected ports, classification of goods\n(divisions and groups)",
+        "Time": ""
+    },
+    {
+        "Code": "46331-0007",
+        "Content": "Goods unloaded and loaded (maritime transport): Germany,\nmonths, selected ports, types of load",
+        "Time": ""
+    },
+    {
+        "Code": "46331-0008",
+        "Content": "Goods unloaded and loaded (roll-on/roll-off transport):\nGermany, months, selected ports",
+        "Time": ""
+    }
+]
